@@ -3,7 +3,7 @@
 int main(void)
 {
     printf("asdasdasasdd\n");
-    printf("dsddsdsasdasaaaaaaadsd");
+    printf("dsddsdsa\nsdasaa\naaaaadsd");
 
     return 0;
 }
